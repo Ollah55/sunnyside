@@ -294,7 +294,6 @@
   color: var(--Very-dark-grayish-blue);
 }
 .grid-container{
-  border: 2px solid red;
   width: 100%;
   height: fit-content;
   display: grid;
